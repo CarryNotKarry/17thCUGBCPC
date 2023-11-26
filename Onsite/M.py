@@ -1,0 +1,1 @@
+print('I have read the above rules and participate in the competition.')
